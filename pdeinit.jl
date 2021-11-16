@@ -11,7 +11,7 @@ Dyy = Differential(y)^2
 
 # 2D PDE
 eq  = Dxx(u(x,y)) + Dyy(u(x,y))+ u(x,y) ~ 0
-#bb(t)=exp(complex(0,t))
+
 
 # Boundary conditions
 
